@@ -1,3 +1,2 @@
-# Playground da cleo
-
-Este repositório contém minhas notas e códigos escrito durante meu processo de aprendizagem em programação.
+este é um paragráfo 
+este é outro paragráfo
