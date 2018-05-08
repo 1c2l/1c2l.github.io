@@ -32,7 +32,9 @@ span {
      	height: 100px;
      	width: 300px;
      	padding: 100px; 
-     	border: blue;
+     	border:blue;
+     	margin: black;
+     	
 
      }
 
