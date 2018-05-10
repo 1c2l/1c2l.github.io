@@ -4,6 +4,7 @@ h1 {
 
 .cleo {
 	color: black;
+
 }
 h2 {
 	color: black;
@@ -11,14 +12,17 @@ h2 {
 	border: 20px solid red; 
 	margin: 30px;
 	padding: 50px;
+
 }
 
 .titulo {
-	background-color: pink;
+	color: pink;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSr0RYprXq_joLT9YosKWS2FDdNuORBctk3C_c_co6VpW1mVTh);
 }
 h3 {
 	color:purple;
 	border:36px;
+	
 }
 h4 {
 	color:red;
