@@ -32,13 +32,42 @@ span {
 		border: 1px solid black;
 		background-color: lime;
 	}
-     input  {
-     	height: 50px;
-     	width: 55px;
-     	padding: 50px; 
-     	border:blue;
-     	overflow: visible;
 
-     		}
+.texto  {
+	height: 50px;
+	width: 55px;
+	border: 2px solid blue;
+}
 
 
+th{
+	padding: 100px;
+
+	
+}
+.image{
+	background-image: url(http://www.fotosface.com.br/fotos/imagens-9c5bd1.jpg);
+width: 300px;
+}
+table{
+	width: 100%;
+}
+
+.corrosa{
+         color:pink;
+}
+.corverde{
+	color: green;
+}
+.corvermelha{
+	color:red;
+}
+.corazul{
+	color:blue;
+}
+
+.ref::before{
+	font font-weight: bold;
+	color: navy;
+	content:"reference";
+}
